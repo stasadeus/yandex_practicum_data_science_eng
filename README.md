@@ -3,4 +3,4 @@ This repository contains projects completed during training at Yandex.Practicum 
 
 | Project name          | Description                 | Libraries used  |
 | :-------------------- | :---------------------------|:----------------|
-| [Big cities music](https://github.com/stasadeus/yandex_practicum_data_science/tree/main/big_cities_music)| Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)|         pandas        | 
+| [Big cities music](https://github.com/stasadeus/yandex_practicum_data_science/tree/main/big_cities_music)| Comparison of preferences of Yandex.Music users from Moscow and St. Petersburg depending on time (morning and evening) and day of the week (Monday, Wednesday, Friday)|         pandas        | 
