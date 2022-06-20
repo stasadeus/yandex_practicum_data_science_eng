@@ -1,4 +1,4 @@
-## Repository of a graduate of the School of Data Analysis of Yandex (Yandex.Practicum) in the professions "Data Analyst" and "Specialist in Data Science".
+## Repository of a graduate of the School of Data Analysis of Yandex (Yandex.Practicum) in the profession "Specialist in Data Science".
 This repository contains projects completed during training at Yandex.Practicum for the profession "Data Analyst" / "Data Science Specialist":
 
 | Project name          | Description                 | Libraries used  |
