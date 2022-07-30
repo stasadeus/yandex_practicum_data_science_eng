@@ -4,7 +4,7 @@ Input data - archive of ads for the sale of apartments in St. Petersburg and nei
 
 - The number of photos of the apartment in the ad
 - Price at the time of removal from publication
-- Total area of ​​the apartment in square meters (m²)
+- Total area of the apartment in square meters (m²)
 - Publication date
 - Number of rooms
 - Ceiling height (m)
