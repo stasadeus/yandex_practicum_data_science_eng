@@ -29,4 +29,4 @@ Input data - archive of ads for the sale of apartments in St. Petersburg and nei
 Perform data preprocessing and study them to find interesting features and dependencies that exist in the real estate market.
 
 ## Used libraries
-pandas
+pandas, numpy, matplotlib
