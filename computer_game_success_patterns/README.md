@@ -20,4 +20,4 @@ We have at our disposal historical data on sales, user and expert ratings, genre
 To identify patterns that determine the success of the game and identify a potentially popular product for further planning of advertising campaigns.
 
 ## Used libraries
-pandas, numpy, matplotlib, seaborn, scipy
+pandas, numpy, matplotlib, seaborn, scipy, missingno
