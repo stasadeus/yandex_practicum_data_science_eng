@@ -43,4 +43,4 @@ Table `tariffs` - information about tariffs:
 Analyze customer behavior and conclude which tariff brings more revenue.
 
 ## Used libraries
-pandas, scipy
+pandas, numpy, matplotlib, seaborn, scipy
