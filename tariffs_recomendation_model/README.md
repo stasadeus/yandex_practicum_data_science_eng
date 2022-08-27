@@ -11,7 +11,7 @@ Each object in the data set is information about the behavior of one user per mo
 - `is_ultra` - what tariff did you use during the month ("Ultra" - 1, "Smart" - 0).
 
 ## Task
-Build a model with the highest possible accuracy for the classification task, which, after analyzing the behavior of customers, will select the appropriate new tariff "Smart" or "Ultra" for the cellular operator's customers. Data preprocessing is not required - it was done in the project ["Comparison of the profitability of mobile operator tariffs"](https://github.com/stasadeus/yandex_practicum_data_science_eng/tree/main/mobile_operator_tariffs_profitability)
+Build a model with the highest possible accuracy for the classification task, which, after analyzing the behavior of customers, will select the appropriate new tariff "Smart" or "Ultra" for the cellular operator's customers. Data preprocessing is not required - it was done in the project ["Profitability study of mobile operator tariffs"](https://github.com/stasadeus/yandex_practicum_data_science_eng/tree/main/mobile_operator_tariffs_profitability)
 
 ## Used libraries
 pandas, matplotlib, sklearn
