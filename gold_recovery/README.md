@@ -10,13 +10,13 @@ You need to predict two quantities at once:
 
 **Technological process**  
 
-Когда добытая руда проходит первичную обработку, получается дроблёная смесь. Её отправляют на флотацию (обогащение) и двухэтапную очистку:
+When the mined ore undergoes primary processing, a crushed mixture is obtained. It is sent for flotation (enrichment) and two-stage purification:
 
-Флотация  
-1. Во флотационную установку подаётся смесь золотосодержащей руды. После обогащения получается черновой концентрат и «отвальные хвосты», то есть остатки продукта с низкой концентрацией ценных металлов.
-На стабильность этого процесса влияет непостоянное и неоптимальное физико-химическое состояние флотационной пульпы (смеси твёрдых частиц и жидкости).  
-2. Очистка  
-Черновой концентрат проходит две очистки. На выходе получается финальный концентрат и новые отвальные хвосты.  
+Flotation  
+1. A mixture of gold ore is fed into the flotation plant. After enrichment, a rough concentrate and “dump tails” are obtained, that is, product residues with a low concentration of valuable metals.  
+The stability of this process is affected by the unstable and non-optimal physical and chemical state of the flotation pulp (a mixture of solid particles and liquid).
+2. Cleaning  
+The crude concentrate goes through two purifications. The output is the final concentrate and new final tailings.  
 
 ## Data
 
