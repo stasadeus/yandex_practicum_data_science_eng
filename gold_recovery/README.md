@@ -92,4 +92,4 @@ The final metric consists of two values:
 $final sMAPE = 25$% $\times{} sMAPE(rougher) + 75$% $\times{} sMAPE(final)$
 
 ## Libraries used  
-numpy, pandas, missingno, matplotlib, seaborn, sklearn
+numpy, pandas, matplotlib, seaborn, sklearn
