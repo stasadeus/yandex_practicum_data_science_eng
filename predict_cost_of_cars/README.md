@@ -31,7 +31,7 @@ Features
 
 Target feature  
 
-Price - price (euro)
+- Price - price (euro)
 
 ## Libraries used  
 numpy, pandas, missingno, matplotlib, seaborn, sklearn, lightgbm, catboost
