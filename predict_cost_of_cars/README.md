@@ -28,6 +28,7 @@ Features
 - NumberOfPictures - the number of photos of the car  
 - PostalCode - postal code of the owner of the profile (user)  
 - LastSeen - date of last user activity  
+
 Target feature  
 
 Price - price (euro)
